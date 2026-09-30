@@ -1,0 +1,8 @@
+{
+  "name": "VeriSafe-AI",
+  "description": "VeriSafe-AI is an AI-powered scam detection platform that helps users identify suspicious links, messages, emails, payment requests, and online fraud. It analyzes potential threats, provides a risk score with clear explanations, and offers safety recommendations to help users make safer decisions online.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
